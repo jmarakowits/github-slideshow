@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Jen loves panda bears.
 Use the left arrow to go back!
